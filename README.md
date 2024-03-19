@@ -14,7 +14,7 @@
 
 # Base de API completa con autenticación, PostgreSQL y Docker por Marcos Ortiz
 
-Bienvenido a la Base de API completa con autenticación, PostgreSQL y Docker. Esta plantilla te proporciona un punto de partida sólido para iniciar tu proyecto Backend desde cero, con toda la funcionalidad de autenticación ya configurada.
+Bienvenido a la Base de API completa con autenticación, PostgreSQL y Docker. Esta base te proporciona un punto de partida para iniciar tu proyecto Backend desde cero, con toda la funcionalidad de autenticación ya configurada.
 
 ## Características principales:
 
