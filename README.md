@@ -1,6 +1,7 @@
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  ![postgre-sql-logo-16-7-en](https://github.com/ingMarcosOrtiz/base-api-auth-completo/assets/19525887/365b0774-2ee0-4f7d-9e05-7b3ff808f3e6)
 </p>
 
 <p align="center">
