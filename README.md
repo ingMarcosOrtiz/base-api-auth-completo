@@ -2,10 +2,20 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
-# Base api auth completo por Marcos Ortiz
-<p>Al descargar esta base api podrás iniciar un proyecto Backend desde cero teniendo ya configuraddo toda la autenticacion.
-  usando :  @nestjs/jwt @nestjs/passport @types/passport-jwt passport passport-jwt
+# Base de API completa con autenticación, PostgreSQL y Docker por Marcos Ortiz
+
+Bienvenido a la Base de API completa con autenticación, PostgreSQL y Docker. Esta plantilla te proporciona un punto de partida sólido para iniciar tu proyecto Backend desde cero, con toda la funcionalidad de autenticación ya configurada.
+
+## Características principales:
+
+- Autenticación completa implementada con @nestjs/jwt, @nestjs/passport, @types/passport-jwt, passport y passport-jwt.
+- Base de datos PostgreSQL configurada y lista para usar.
+- Configuración Dockerizada para una fácil gestión y despliegue de tu aplicación.
+
+¡Empieza a construir tu aplicación con confianza y ahorra tiempo en la configuración inicial!
+
 </p>
+
 
 1. Clonar proyecto
 2. `yarn install`
