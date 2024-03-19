@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.postgresql.org/" target="blank"><img src="https://marketplace.workiva.com/sites/marketplace/files/images/logos/postgre-sql-logo-16-7-en.svg" width="200" alt="PostgreSQL Logo" /></a>
+  <a href="https://www.postgresql.org/" target="blank"><img src="https://www.clipartmax.com/png/middle/242-2423721_logo-postgresql.png" width="200" alt="PostgreSQL Logo" /></a>
 </p>
 
 <p align="center">
