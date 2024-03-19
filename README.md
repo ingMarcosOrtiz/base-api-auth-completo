@@ -4,13 +4,6 @@
  
 </p>
 
-<p align="center">
-  <a href="https://www.postgresql.org/" target="blank"><img src="https://www.clipartmax.com/png/middle/242-2423721_logo-postgresql.png" width="200" alt="PostgreSQL Logo" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.docker.com/" target="blank"><img src="url_de_la_imagen_docker" width="200" alt="Docker Logo" /></a>
-</p>
 
 
 # Base de API completa con autenticación, PostgreSQL y Docker por Marcos Ortiz
