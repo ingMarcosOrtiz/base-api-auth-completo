@@ -3,6 +3,9 @@
 </p>
 
 # Base api auth completo por Marcos Ortiz
+<p>Al descargar esta base api podrás iniciar un proyecto Backend desde cero teniendo ya configuraddo toda la autenticacion.
+  usando :  @nestjs/jwt @nestjs/passport @types/passport-jwt passport passport-jwt
+</p>
 
 1. Clonar proyecto
 2. `yarn install`
