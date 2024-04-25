@@ -25,7 +25,8 @@ Bienvenido a la Base de API completa con autenticación, PostgreSQL y Docker. Es
 2. `yarn install`
 3. Clonar el archivo `.env.template` y renombrarlo a `.env`
 4. Cambiar las variables de entorno
-5. Levantar la base de datos
+5. iniciar git comando "git init"
+6. Levantar la base de datos
 
 ```
 docker-compose up -d
